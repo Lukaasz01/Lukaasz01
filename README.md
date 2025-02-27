@@ -1,20 +1,29 @@
-# 👨‍💻 Lucas Reis 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79A&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Seja+bem-vindo+ao+meu+perfil!)
+
+---
+
 
 ## 🏆 Desenvolvedor **Full-Stack**
 
-  Olá, eu sou [Lucas Gabriel Martins dos Reis](https://github.com/Lukaasz01), tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo tecnologia e computação, com experiência em diversas linguagens, como Python, Java, React.js, Node.js e SQL. Quero evoluir cada vez mais na área, desenvolvendo projetos completos. Além da programação, estou sempre em busca de aprimorar minhas habilidades e crescer profissionalmente.
+ Olá, eu sou [Lucas Gabriel Martins dos Reis](https://github.com/Lukaasz01), tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo tecnologia e computação, com experiência em diversas linguagens, como Python, Java, React.js, Node.js e SQL. Quero evoluir cada vez mais na área, desenvolvendo projetos completos. Além da programação, estou sempre em busca de aprimorar minhas habilidades e crescer profissionalmente.
+ 
+## 📌 Sobre mim
+- 🎮 Apaixonado por Esportes e Jogos
+- 🎸 Nas horas vagas, toco violão
+- 💡 Sempre disposto a ajudar e compartilhar conhecimento
+  
+---
+
+## 🔗 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5561994057831)
 
 ---
 
-## 📫 Contato
+## 🚀 Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Contato](https://img.shields.io/badge/-Contato-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Lukaasz01-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Lukaasz01)
-
----
-
-## 🚀 Linguagens e Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -26,26 +35,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
 </p>
 
+
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lukaasz01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukaasz01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/Lukaasz01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/Lukaasz01&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## Outras Estatísticas
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lukaasz01&theme=darkhub"/>
-</p>
-
----
-
 ## 🔥 Contribuições Recentes
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukaasz01&theme=dark"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/Lukaasz01&theme=radical"/>
 </p>
 
 ---
+
+## 🎯 Conquistas no GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/Lukaasz01&theme=radical"/>
+</p>
+
+---
+
+## 🎯 Contador de Visitas
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Lukaasz01/count.svg" alt="Contador de visitas"/>
+</p>
+
+---
+
+✨ Obrigado pela visita! 😊🚀
