@@ -37,39 +37,5 @@
 </p>
 
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/Lukaasz01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/Lukaasz01&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-## 🔥 Contribuições Recentes
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/Lukaasz01&theme=radical"/>
-</p>
-
----
-
-## 🎯 Conquistas no GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/Lukaasz01&theme=radical"/>
-</p>
-
----
-
-## 🎯 Contador de Visitas
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Lukaasz01/count.svg" alt="Contador de visitas"/>
-</p>
-
----
 
 ✨ Obrigado pela visita! 😊🚀
