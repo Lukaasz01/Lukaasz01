@@ -5,7 +5,7 @@
 
 ## 🏆 Desenvolvedor **Full-Stack**
 
- Olá, eu sou [Lucas Gabriel Martins dos Reis](https://github.com/Lukaasz01), tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo tecnologia e computação, com experiência em diversas linguagens, como Python, Java, React.js, Node.js e SQL. Quero evoluir cada vez mais na área, desenvolvendo projetos completos. Além da programação, estou sempre em busca de aprimorar minhas habilidades e crescer profissionalmente.
+ Olá, eu sou [Lucas Gabriel Martins dos Reis](https://github.com/Lukaasz01), tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo tecnologia e computação, com experiência em diversas linguagens, como Python, Java, React.js, Node.js e SQL. Quero evoluir cada vez mais na área, desenvolvendo projetos completos. Além da programação, estou sempre em busca de aprimorar minhas habilidades e crescer profissionalmente.
  
 ## 📌 Sobre mim
 - 🎮 Apaixonado por Esportes e Jogos
@@ -17,8 +17,8 @@
 
 ## 🔗 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukaasz01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/lucas-reis-1425bf](https://www.linkedin.com/in/lucas-reis-1425bf/))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5561994057831)
 
 ---
