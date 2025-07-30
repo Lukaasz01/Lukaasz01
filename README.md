@@ -11,6 +11,7 @@
 - 🎮 Apaixonado por Esportes e Jogos
 - 🎸 Nas horas vagas, toco violão
 - 💡 Sempre disposto a ajudar e compartilhar conhecimento
+- 🕒 Apaixonado por tecnologia
   
 ---
 
